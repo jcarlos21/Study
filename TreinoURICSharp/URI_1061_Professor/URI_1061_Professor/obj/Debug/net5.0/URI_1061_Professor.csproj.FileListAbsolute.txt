@@ -1,0 +1,16 @@
+C:\Users\jcarl\source\repos\URI_1061_Professor\URI_1061_Professor\bin\Debug\net5.0\URI_1061_Professor.exe
+C:\Users\jcarl\source\repos\URI_1061_Professor\URI_1061_Professor\bin\Debug\net5.0\URI_1061_Professor.deps.json
+C:\Users\jcarl\source\repos\URI_1061_Professor\URI_1061_Professor\bin\Debug\net5.0\URI_1061_Professor.runtimeconfig.json
+C:\Users\jcarl\source\repos\URI_1061_Professor\URI_1061_Professor\bin\Debug\net5.0\URI_1061_Professor.runtimeconfig.dev.json
+C:\Users\jcarl\source\repos\URI_1061_Professor\URI_1061_Professor\bin\Debug\net5.0\URI_1061_Professor.dll
+C:\Users\jcarl\source\repos\URI_1061_Professor\URI_1061_Professor\bin\Debug\net5.0\ref\URI_1061_Professor.dll
+C:\Users\jcarl\source\repos\URI_1061_Professor\URI_1061_Professor\bin\Debug\net5.0\URI_1061_Professor.pdb
+C:\Users\jcarl\source\repos\URI_1061_Professor\URI_1061_Professor\obj\Debug\net5.0\URI_1061_Professor.csproj.AssemblyReference.cache
+C:\Users\jcarl\source\repos\URI_1061_Professor\URI_1061_Professor\obj\Debug\net5.0\URI_1061_Professor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jcarl\source\repos\URI_1061_Professor\URI_1061_Professor\obj\Debug\net5.0\URI_1061_Professor.AssemblyInfoInputs.cache
+C:\Users\jcarl\source\repos\URI_1061_Professor\URI_1061_Professor\obj\Debug\net5.0\URI_1061_Professor.AssemblyInfo.cs
+C:\Users\jcarl\source\repos\URI_1061_Professor\URI_1061_Professor\obj\Debug\net5.0\URI_1061_Professor.csproj.CoreCompileInputs.cache
+C:\Users\jcarl\source\repos\URI_1061_Professor\URI_1061_Professor\obj\Debug\net5.0\URI_1061_Professor.dll
+C:\Users\jcarl\source\repos\URI_1061_Professor\URI_1061_Professor\obj\Debug\net5.0\ref\URI_1061_Professor.dll
+C:\Users\jcarl\source\repos\URI_1061_Professor\URI_1061_Professor\obj\Debug\net5.0\URI_1061_Professor.pdb
+C:\Users\jcarl\source\repos\URI_1061_Professor\URI_1061_Professor\obj\Debug\net5.0\URI_1061_Professor.genruntimeconfig.cache
