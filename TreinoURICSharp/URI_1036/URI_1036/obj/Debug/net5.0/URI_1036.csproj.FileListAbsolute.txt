@@ -1,0 +1,16 @@
+C:\Users\jcarl\source\repos\URI_1036\URI_1036\bin\Debug\net5.0\URI_1036.exe
+C:\Users\jcarl\source\repos\URI_1036\URI_1036\bin\Debug\net5.0\URI_1036.deps.json
+C:\Users\jcarl\source\repos\URI_1036\URI_1036\bin\Debug\net5.0\URI_1036.runtimeconfig.json
+C:\Users\jcarl\source\repos\URI_1036\URI_1036\bin\Debug\net5.0\URI_1036.runtimeconfig.dev.json
+C:\Users\jcarl\source\repos\URI_1036\URI_1036\bin\Debug\net5.0\URI_1036.dll
+C:\Users\jcarl\source\repos\URI_1036\URI_1036\bin\Debug\net5.0\ref\URI_1036.dll
+C:\Users\jcarl\source\repos\URI_1036\URI_1036\bin\Debug\net5.0\URI_1036.pdb
+C:\Users\jcarl\source\repos\URI_1036\URI_1036\obj\Debug\net5.0\URI_1036.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jcarl\source\repos\URI_1036\URI_1036\obj\Debug\net5.0\URI_1036.AssemblyInfoInputs.cache
+C:\Users\jcarl\source\repos\URI_1036\URI_1036\obj\Debug\net5.0\URI_1036.AssemblyInfo.cs
+C:\Users\jcarl\source\repos\URI_1036\URI_1036\obj\Debug\net5.0\URI_1036.csproj.CoreCompileInputs.cache
+C:\Users\jcarl\source\repos\URI_1036\URI_1036\obj\Debug\net5.0\URI_1036.dll
+C:\Users\jcarl\source\repos\URI_1036\URI_1036\obj\Debug\net5.0\ref\URI_1036.dll
+C:\Users\jcarl\source\repos\URI_1036\URI_1036\obj\Debug\net5.0\URI_1036.pdb
+C:\Users\jcarl\source\repos\URI_1036\URI_1036\obj\Debug\net5.0\URI_1036.genruntimeconfig.cache
+C:\Users\jcarl\source\repos\URI_1036\URI_1036\obj\Debug\net5.0\URI_1036.csproj.AssemblyReference.cache
