@@ -1,0 +1,15 @@
+C:\Users\jcarl\source\repos\URI_1047_Teacher\URI_1047_Teacher\bin\Debug\net5.0\URI_1047_Teacher.exe
+C:\Users\jcarl\source\repos\URI_1047_Teacher\URI_1047_Teacher\bin\Debug\net5.0\URI_1047_Teacher.deps.json
+C:\Users\jcarl\source\repos\URI_1047_Teacher\URI_1047_Teacher\bin\Debug\net5.0\URI_1047_Teacher.runtimeconfig.json
+C:\Users\jcarl\source\repos\URI_1047_Teacher\URI_1047_Teacher\bin\Debug\net5.0\URI_1047_Teacher.runtimeconfig.dev.json
+C:\Users\jcarl\source\repos\URI_1047_Teacher\URI_1047_Teacher\bin\Debug\net5.0\URI_1047_Teacher.dll
+C:\Users\jcarl\source\repos\URI_1047_Teacher\URI_1047_Teacher\bin\Debug\net5.0\ref\URI_1047_Teacher.dll
+C:\Users\jcarl\source\repos\URI_1047_Teacher\URI_1047_Teacher\bin\Debug\net5.0\URI_1047_Teacher.pdb
+C:\Users\jcarl\source\repos\URI_1047_Teacher\URI_1047_Teacher\obj\Debug\net5.0\URI_1047_Teacher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jcarl\source\repos\URI_1047_Teacher\URI_1047_Teacher\obj\Debug\net5.0\URI_1047_Teacher.AssemblyInfoInputs.cache
+C:\Users\jcarl\source\repos\URI_1047_Teacher\URI_1047_Teacher\obj\Debug\net5.0\URI_1047_Teacher.AssemblyInfo.cs
+C:\Users\jcarl\source\repos\URI_1047_Teacher\URI_1047_Teacher\obj\Debug\net5.0\URI_1047_Teacher.csproj.CoreCompileInputs.cache
+C:\Users\jcarl\source\repos\URI_1047_Teacher\URI_1047_Teacher\obj\Debug\net5.0\URI_1047_Teacher.dll
+C:\Users\jcarl\source\repos\URI_1047_Teacher\URI_1047_Teacher\obj\Debug\net5.0\ref\URI_1047_Teacher.dll
+C:\Users\jcarl\source\repos\URI_1047_Teacher\URI_1047_Teacher\obj\Debug\net5.0\URI_1047_Teacher.pdb
+C:\Users\jcarl\source\repos\URI_1047_Teacher\URI_1047_Teacher\obj\Debug\net5.0\URI_1047_Teacher.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\jcarl\source\repos\teste-er\teste-er\bin\Debug\net5.0\teste-er.exe
+C:\Users\jcarl\source\repos\teste-er\teste-er\bin\Debug\net5.0\teste-er.deps.json
+C:\Users\jcarl\source\repos\teste-er\teste-er\bin\Debug\net5.0\teste-er.runtimeconfig.json
+C:\Users\jcarl\source\repos\teste-er\teste-er\bin\Debug\net5.0\teste-er.runtimeconfig.dev.json
+C:\Users\jcarl\source\repos\teste-er\teste-er\bin\Debug\net5.0\teste-er.dll
+C:\Users\jcarl\source\repos\teste-er\teste-er\bin\Debug\net5.0\ref\teste-er.dll
+C:\Users\jcarl\source\repos\teste-er\teste-er\bin\Debug\net5.0\teste-er.pdb
+C:\Users\jcarl\source\repos\teste-er\teste-er\obj\Debug\net5.0\teste-er.csproj.AssemblyReference.cache
+C:\Users\jcarl\source\repos\teste-er\teste-er\obj\Debug\net5.0\teste-er.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jcarl\source\repos\teste-er\teste-er\obj\Debug\net5.0\teste-er.AssemblyInfoInputs.cache
+C:\Users\jcarl\source\repos\teste-er\teste-er\obj\Debug\net5.0\teste-er.AssemblyInfo.cs
+C:\Users\jcarl\source\repos\teste-er\teste-er\obj\Debug\net5.0\teste-er.csproj.CoreCompileInputs.cache
+C:\Users\jcarl\source\repos\teste-er\teste-er\obj\Debug\net5.0\teste-er.dll
+C:\Users\jcarl\source\repos\teste-er\teste-er\obj\Debug\net5.0\ref\teste-er.dll
+C:\Users\jcarl\source\repos\teste-er\teste-er\obj\Debug\net5.0\teste-er.pdb
+C:\Users\jcarl\source\repos\teste-er\teste-er\obj\Debug\net5.0\teste-er.genruntimeconfig.cache
