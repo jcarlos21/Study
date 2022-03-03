@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "7Evb8CYtW9b4QH1SnC6CpMCd/PfcliZzgBbc+hILPXt8fdRkOOhYI+qSGBen0zOFDofSMhZOEuBVPBtILQms/A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jcarl\\source\\repos\\URI_1116\\URI_1116\\URI_1116.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jcarl\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.14\\microsoft.netcore.app.host.win-x64.5.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}

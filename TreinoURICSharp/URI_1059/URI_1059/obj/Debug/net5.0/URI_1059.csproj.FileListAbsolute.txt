@@ -1,0 +1,16 @@
+C:\Users\jcarl\source\repos\URI_1059\URI_1059\bin\Debug\net5.0\URI_1059.exe
+C:\Users\jcarl\source\repos\URI_1059\URI_1059\bin\Debug\net5.0\URI_1059.deps.json
+C:\Users\jcarl\source\repos\URI_1059\URI_1059\bin\Debug\net5.0\URI_1059.runtimeconfig.json
+C:\Users\jcarl\source\repos\URI_1059\URI_1059\bin\Debug\net5.0\URI_1059.runtimeconfig.dev.json
+C:\Users\jcarl\source\repos\URI_1059\URI_1059\bin\Debug\net5.0\URI_1059.dll
+C:\Users\jcarl\source\repos\URI_1059\URI_1059\bin\Debug\net5.0\URI_1059.pdb
+C:\Users\jcarl\source\repos\URI_1059\URI_1059\obj\Debug\net5.0\URI_1059.csproj.AssemblyReference.cache
+C:\Users\jcarl\source\repos\URI_1059\URI_1059\obj\Debug\net5.0\URI_1059.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jcarl\source\repos\URI_1059\URI_1059\obj\Debug\net5.0\URI_1059.AssemblyInfoInputs.cache
+C:\Users\jcarl\source\repos\URI_1059\URI_1059\obj\Debug\net5.0\URI_1059.AssemblyInfo.cs
+C:\Users\jcarl\source\repos\URI_1059\URI_1059\obj\Debug\net5.0\URI_1059.csproj.CoreCompileInputs.cache
+C:\Users\jcarl\source\repos\URI_1059\URI_1059\obj\Debug\net5.0\URI_1059.dll
+C:\Users\jcarl\source\repos\URI_1059\URI_1059\obj\Debug\net5.0\refint\URI_1059.dll
+C:\Users\jcarl\source\repos\URI_1059\URI_1059\obj\Debug\net5.0\URI_1059.pdb
+C:\Users\jcarl\source\repos\URI_1059\URI_1059\obj\Debug\net5.0\URI_1059.genruntimeconfig.cache
+C:\Users\jcarl\source\repos\URI_1059\URI_1059\obj\Debug\net5.0\ref\URI_1059.dll
