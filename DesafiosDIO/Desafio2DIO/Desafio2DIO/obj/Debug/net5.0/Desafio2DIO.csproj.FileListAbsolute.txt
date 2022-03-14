@@ -1,0 +1,16 @@
+C:\Users\jcarl\source\repos\Desafio2DIO\Desafio2DIO\bin\Debug\net5.0\Desafio2DIO.exe
+C:\Users\jcarl\source\repos\Desafio2DIO\Desafio2DIO\bin\Debug\net5.0\Desafio2DIO.deps.json
+C:\Users\jcarl\source\repos\Desafio2DIO\Desafio2DIO\bin\Debug\net5.0\Desafio2DIO.runtimeconfig.json
+C:\Users\jcarl\source\repos\Desafio2DIO\Desafio2DIO\bin\Debug\net5.0\Desafio2DIO.runtimeconfig.dev.json
+C:\Users\jcarl\source\repos\Desafio2DIO\Desafio2DIO\bin\Debug\net5.0\Desafio2DIO.dll
+C:\Users\jcarl\source\repos\Desafio2DIO\Desafio2DIO\bin\Debug\net5.0\Desafio2DIO.pdb
+C:\Users\jcarl\source\repos\Desafio2DIO\Desafio2DIO\obj\Debug\net5.0\Desafio2DIO.csproj.AssemblyReference.cache
+C:\Users\jcarl\source\repos\Desafio2DIO\Desafio2DIO\obj\Debug\net5.0\Desafio2DIO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jcarl\source\repos\Desafio2DIO\Desafio2DIO\obj\Debug\net5.0\Desafio2DIO.AssemblyInfoInputs.cache
+C:\Users\jcarl\source\repos\Desafio2DIO\Desafio2DIO\obj\Debug\net5.0\Desafio2DIO.AssemblyInfo.cs
+C:\Users\jcarl\source\repos\Desafio2DIO\Desafio2DIO\obj\Debug\net5.0\Desafio2DIO.csproj.CoreCompileInputs.cache
+C:\Users\jcarl\source\repos\Desafio2DIO\Desafio2DIO\obj\Debug\net5.0\Desafio2DIO.dll
+C:\Users\jcarl\source\repos\Desafio2DIO\Desafio2DIO\obj\Debug\net5.0\refint\Desafio2DIO.dll
+C:\Users\jcarl\source\repos\Desafio2DIO\Desafio2DIO\obj\Debug\net5.0\Desafio2DIO.pdb
+C:\Users\jcarl\source\repos\Desafio2DIO\Desafio2DIO\obj\Debug\net5.0\Desafio2DIO.genruntimeconfig.cache
+C:\Users\jcarl\source\repos\Desafio2DIO\Desafio2DIO\obj\Debug\net5.0\ref\Desafio2DIO.dll

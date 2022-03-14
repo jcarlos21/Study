@@ -1,0 +1,16 @@
+C:\Users\jcarl\source\repos\DESAFIO3_DIO\DESAFIO3_DIO\bin\Debug\net5.0\DESAFIO3_DIO.exe
+C:\Users\jcarl\source\repos\DESAFIO3_DIO\DESAFIO3_DIO\bin\Debug\net5.0\DESAFIO3_DIO.deps.json
+C:\Users\jcarl\source\repos\DESAFIO3_DIO\DESAFIO3_DIO\bin\Debug\net5.0\DESAFIO3_DIO.runtimeconfig.json
+C:\Users\jcarl\source\repos\DESAFIO3_DIO\DESAFIO3_DIO\bin\Debug\net5.0\DESAFIO3_DIO.runtimeconfig.dev.json
+C:\Users\jcarl\source\repos\DESAFIO3_DIO\DESAFIO3_DIO\bin\Debug\net5.0\DESAFIO3_DIO.dll
+C:\Users\jcarl\source\repos\DESAFIO3_DIO\DESAFIO3_DIO\bin\Debug\net5.0\DESAFIO3_DIO.pdb
+C:\Users\jcarl\source\repos\DESAFIO3_DIO\DESAFIO3_DIO\obj\Debug\net5.0\DESAFIO3_DIO.csproj.AssemblyReference.cache
+C:\Users\jcarl\source\repos\DESAFIO3_DIO\DESAFIO3_DIO\obj\Debug\net5.0\DESAFIO3_DIO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jcarl\source\repos\DESAFIO3_DIO\DESAFIO3_DIO\obj\Debug\net5.0\DESAFIO3_DIO.AssemblyInfoInputs.cache
+C:\Users\jcarl\source\repos\DESAFIO3_DIO\DESAFIO3_DIO\obj\Debug\net5.0\DESAFIO3_DIO.AssemblyInfo.cs
+C:\Users\jcarl\source\repos\DESAFIO3_DIO\DESAFIO3_DIO\obj\Debug\net5.0\DESAFIO3_DIO.csproj.CoreCompileInputs.cache
+C:\Users\jcarl\source\repos\DESAFIO3_DIO\DESAFIO3_DIO\obj\Debug\net5.0\DESAFIO3_DIO.dll
+C:\Users\jcarl\source\repos\DESAFIO3_DIO\DESAFIO3_DIO\obj\Debug\net5.0\refint\DESAFIO3_DIO.dll
+C:\Users\jcarl\source\repos\DESAFIO3_DIO\DESAFIO3_DIO\obj\Debug\net5.0\DESAFIO3_DIO.pdb
+C:\Users\jcarl\source\repos\DESAFIO3_DIO\DESAFIO3_DIO\obj\Debug\net5.0\DESAFIO3_DIO.genruntimeconfig.cache
+C:\Users\jcarl\source\repos\DESAFIO3_DIO\DESAFIO3_DIO\obj\Debug\net5.0\ref\DESAFIO3_DIO.dll
