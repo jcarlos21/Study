@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jcarl\\source\\repos\\Vetores\\03\\03.csproj",
+      "projectUniqueName": "C:\\Users\\jcarl\\OneDrive\\#Onedrive\\Cursos\\Desenvolvimento\\C#\\Study-train\\Vetores\\03\\03.csproj",
       "projectName": "03",
-      "projectPath": "C:\\Users\\jcarl\\source\\repos\\Vetores\\03\\03.csproj",
+      "projectPath": "C:\\Users\\jcarl\\OneDrive\\#Onedrive\\Cursos\\Desenvolvimento\\C#\\Study-train\\Vetores\\03\\03.csproj",
       "packagesPath": "C:\\Users\\jcarl\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jcarl\\source\\repos\\Vetores\\03\\obj\\",
+      "outputPath": "C:\\Users\\jcarl\\OneDrive\\#Onedrive\\Cursos\\Desenvolvimento\\C#\\Study-train\\Vetores\\03\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Program Files\\Microsoft Visual Studio\\Shared\\NuGetPackages"

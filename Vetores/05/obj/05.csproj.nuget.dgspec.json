@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jcarl\\source\\repos\\Vetores\\05\\05.csproj": {}
+    "C:\\Users\\jcarl\\OneDrive\\#Onedrive\\Cursos\\Desenvolvimento\\C#\\Study-train\\Vetores\\05\\05.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jcarl\\source\\repos\\Vetores\\05\\05.csproj": {
+    "C:\\Users\\jcarl\\OneDrive\\#Onedrive\\Cursos\\Desenvolvimento\\C#\\Study-train\\Vetores\\05\\05.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jcarl\\source\\repos\\Vetores\\05\\05.csproj",
+        "projectUniqueName": "C:\\Users\\jcarl\\OneDrive\\#Onedrive\\Cursos\\Desenvolvimento\\C#\\Study-train\\Vetores\\05\\05.csproj",
         "projectName": "05",
-        "projectPath": "C:\\Users\\jcarl\\source\\repos\\Vetores\\05\\05.csproj",
+        "projectPath": "C:\\Users\\jcarl\\OneDrive\\#Onedrive\\Cursos\\Desenvolvimento\\C#\\Study-train\\Vetores\\05\\05.csproj",
         "packagesPath": "C:\\Users\\jcarl\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jcarl\\source\\repos\\Vetores\\05\\obj\\",
+        "outputPath": "C:\\Users\\jcarl\\OneDrive\\#Onedrive\\Cursos\\Desenvolvimento\\C#\\Study-train\\Vetores\\05\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Program Files\\Microsoft Visual Studio\\Shared\\NuGetPackages"
