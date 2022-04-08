@@ -40,8 +40,7 @@ internal class Program {
         Console.WriteLine($@"A lista de nomes alterada é:
             {string.Join(", \n", nomes)}
         ");
-
-        System.Console.WriteLine();
+        // Falta debugar
         
     }
 }
