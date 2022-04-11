@@ -1,2 +1,7 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using static System.Console;
+
+Pessoa p1 = new Pessoa();
+
+p1.Nome = "Ricardo";
+p1.Idade = 30;
+p1.EnderecoPessoa = new Endereco();
