@@ -42,13 +42,13 @@ internal class Program {
         }
     }
 
-    static int LocalizarNome (string[] nomes, string nome){
+    static ref string LocalizarNome (string[] nomes, string nome){
         for (int i = 0; i < nomes.Length; i++) {
             if (nomes[i] == nome){
-                return i;
+                return ref nomes[i];
             }
         }
-        return -1;
+        throw new Exception("Nome não encontrado!");
     }
 
     static void Main(string[] args) {
@@ -65,10 +65,10 @@ internal class Program {
 
         // AlterarNome(nomes, nome, nomeNovo);
 
-        var indice = LocalizarNome(nomes, nome);
+        ref var nomeEncontrado = ref LocalizarNome(nomes, nome);
 
-        if (indice >= 0) {
-            nomes[indice] = nomeNovo;
+        if (!string.IsNullOrWhiteSpace(nomeEncontrado)) {
+            nomeEncontrado = nomeNovo;
 
             Console.WriteLine($@"A lista de nomes alterada é:
                 {string.Join(", \n", nomes)}
