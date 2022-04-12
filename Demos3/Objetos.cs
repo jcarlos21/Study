@@ -5,9 +5,14 @@ public class Pessoa {
 
 }
 
-public struct Endereco {
+public struct Endereco : Dados {
     public int Numero { get; set; }
     public string Logradouro { get; set; }
     public string CEP { get; set; }
     public string Cidade { get; set; }
+}
+
+public interface Dados {
+    public int Numero { get; set; }
+    public string Logradouro { get; set; }
 }
