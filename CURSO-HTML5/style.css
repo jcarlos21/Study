@@ -1,19 +1,36 @@
 body {
-    background: #ccc;
+    background: #f7f7f7;
 }
 
-#title, .subtitle, .post_title {
-    color: blue;
+.photo {
+    border: 1px solid #505050;
+    border-radius: 50px;
 }
 
-.post_title {
+#title, .subtitle, .post_title { /* ID: precedido por um #. Só pode ser usado uma vez na página.*/
+    color: #505050;
+}
+
+.post_title { /* Classe: precedido por um .*/
     font-size: 16px;
     font-style: italic;
+    margin: 0;
+    margin-bottom: 15px;
 }
 
 .post {
     background: #FFF;
-    padding: 10px;
-    border: 3px solid #000;
-    margin: 10px;
+    padding: 15px;
+    border: 3px solid #505050;
+    margin-bottom: 15px;
+    border-radius: 5px;
+}
+
+.post_content {
+    margin: 0;
+    margin-bottom: 15px;
+}
+
+.post_image {
+    margin-bottom: 15px;
 }
